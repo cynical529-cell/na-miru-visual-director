@@ -1,0 +1,37 @@
+[
+  {
+    "path": "01_나미루/나미루_얼굴_정본_4K.png",
+    "bytes": 13270381,
+    "width": 4096,
+    "height": 4096,
+    "sha256": "05211fd842dffa7fb6ae98a49fdb844535d9dc6eb424e6a0137cd72fffd527a7"
+  },
+  {
+    "path": "01_나미루/나미루_체형보드_4K.png",
+    "bytes": 8151294,
+    "width": 3278,
+    "height": 4096,
+    "sha256": "a913f0e6fe09d28314c9ca37e1710be91fcbc8571483b31bca49b8f6048544f5"
+  },
+  {
+    "path": "02_유은하/유은하_극화체_캐릭터보드_v5_전신얼굴크롭_4K.png",
+    "bytes": 19318205,
+    "width": 3278,
+    "height": 4096,
+    "sha256": "65039e6c0eabebc6515fd10ce5ff6f856b4d3894c2a005cf8b43c4143e74541c"
+  },
+  {
+    "path": "03_OPS/OPS_극화체_캐릭터보드_v3_전신얼굴크롭_4K.png",
+    "bytes": 15971520,
+    "width": 3278,
+    "height": 4096,
+    "sha256": "ea7a13247cca8c86cbe7104f79a766b92e511d79baf7eaab8402c7d0cfedfb78"
+  },
+  {
+    "path": "04_김지석/김지석_극화체_캐릭터보드_v3_전신얼굴크롭_4K.png",
+    "bytes": 16891338,
+    "width": 3278,
+    "height": 4096,
+    "sha256": "c1b96dc0131cf44bd170b1a11c025fb9be12dc927548e6cf8bfa8090c70b6004"
+  }
+]
