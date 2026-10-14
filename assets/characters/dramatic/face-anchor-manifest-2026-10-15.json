@@ -1,0 +1,107 @@
+{
+  "version": "2026-10-15 KST",
+  "files": [
+    {
+      "library_file_id": "libfile_b6dfdd5fa4f08191b9eb80a640e58ce4",
+      "file_id": "file_00000000ddcc81f4923bf6692706aaf0",
+      "file_name": "image(20261014-164521).png",
+      "current_version_number": 0,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "size_bytes": 2136703,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b1aac6b4050856f6f45943d2bf279a51dc35aa07fc62e4f64d33402d47b7cb65",
+      "git_blob_sha": "543927e0dce42e0496c037fbd055a5563d457f0a",
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-15/secondary-01-original.png",
+      "processing": "byte-identical Library original; no resize, generation or retouch",
+      "role": "secondary expression reference"
+    },
+    {
+      "library_file_id": "libfile_e083321171108191bfa6eea0b8a21a92",
+      "file_id": "file_00000000e0e8820e8b1b94c25cfbe880",
+      "file_name": "image(20261014-164522).png",
+      "current_version_number": 0,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "size_bytes": 1985997,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6d60f39e3c1b4a7f9d470db522ea5d06dec7eed6f2a23ef081fde199eb8ff39a",
+      "git_blob_sha": "45e3cc8e38a54e8fde6af8f7eb8a17251aec1f8f",
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-15/primary-02-original.png",
+      "processing": "byte-identical Library original; no resize, generation or retouch",
+      "role": "primary face anchor"
+    },
+    {
+      "library_file_id": "libfile_41e5f397860081918840510b74458acd",
+      "file_id": "file_00000000eb44820eb4b04a5b1b7eb972",
+      "file_name": "기타와 함께한 밴드 걸의 사계절-1(4).png",
+      "current_version_number": 0,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "size_bytes": 2470278,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1ff485bd1c6d4a5dc29da13743e8ccf90b2cf976e617c1ccd4693bcb01decd20",
+      "git_blob_sha": "2da316047460f24c95784f0e12dfd3407b33ea50",
+      "path": "assets/characters/dramatic/01_나미루/style-originals/v2026-10-15/style-01-original.png",
+      "processing": "byte-identical Library original; no resize, generation or retouch",
+      "role": "preserved style original"
+    },
+    {
+      "library_file_id": "libfile_5255567acc8c8191a9cf35821f09d9d9",
+      "file_id": "file_00000000702081fb94670c192c838fd4",
+      "file_name": "네 가지 기타와 함께한 음악 소녀-2(1).png",
+      "current_version_number": 0,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "size_bytes": 2705468,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "133687162f8043716ad3ca41f7e78cd858417f0f0a864f60015ee477f73c8c78",
+      "git_blob_sha": "127e9531fa7ac7a40b33c147e58e4c1483c65351",
+      "path": "assets/characters/dramatic/01_나미루/style-originals/v2026-10-15/style-02-original.png",
+      "processing": "byte-identical Library original; no resize, generation or retouch",
+      "role": "preserved style original"
+    },
+    {
+      "library_file_id": "libfile_cbb35a2737e88191ba7b559141bf1d73",
+      "file_id": "file_00000000547c820bb15054f0b21ea2de",
+      "file_name": "네 대의 기타, 네 가지 음악적 순간-3(1).png",
+      "current_version_number": 0,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "size_bytes": 2397644,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "51acc81c16884aa198fe5d860e6b4b29cca618f33e307f8310f318679abec3e8",
+      "git_blob_sha": "e6ee76655f6d00983da12d54ee25761d4c6641fe",
+      "path": "assets/characters/dramatic/01_나미루/style-originals/v2026-10-15/style-03-original.png",
+      "processing": "byte-identical Library original; no resize, generation or retouch",
+      "role": "preserved style original"
+    }
+  ],
+  "resolution_note": "Face originals are 1254x1254; style originals are 1122x1402. No new 2K/4K derivatives. Existing v2026-10-14 2K/4K derivatives used Pillow LANCZOS interpolation, not generated detail.",
+  "metadata_note": "Windows does not support the Library helper os.setxattr operation. Library IDs, versions and returned metadata are preserved here; original bytes downloaded through the official authorized signed transfer URLs."
+}
