@@ -184,5 +184,7 @@
   "retained_ambiguous": [
     "Photo-style local Namiru frontal anchor: correspondence to dramatic replacement uncertain.",
     "Eunha v5 mixed full-body/face character board: contains body reference and must remain unchanged."
-  ]
+  ],
+  "status": "historical manifest; Namiru entries superseded and removed from current tree 2026-10-15; Eunha files remain current",
+  "current_namiru_manifest": "face-anchor-manifest-2026-10-15.json"
 }

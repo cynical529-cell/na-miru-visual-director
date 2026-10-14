@@ -1,14 +1,5 @@
 [
   {
-    "path": "01_나미루/deprecated/pre-2026-10-14/나미루_얼굴_정본_4K.png",
-    "bytes": 13270381,
-    "width": 4096,
-    "height": 4096,
-    "sha256": "05211fd842dffa7fb6ae98a49fdb844535d9dc6eb424e6a0137cd72fffd527a7",
-    "status": "deprecated",
-    "current_face_anchor_manifest": "face-anchor-manifest-2026-10-14.json"
-  },
-  {
     "path": "01_나미루/나미루_체형보드_4K.png",
     "bytes": 8151294,
     "width": 3278,

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-15 KST",
+  "base_commit": "3d1173bab562f6fba63ad274215fa32391f0b9cd",
+  "preservation_commit": "0fe3f34025976e4eccde4e6626a40c03e377918c",
+  "removed_from_current_tree": [
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/four-view-2K.png",
+      "sha256": "51aa4ee0668a29b7118a8a33b2ac4073ef109e8e4049d60bb4c3462c24be0aa6"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/four-view-4K.png",
+      "sha256": "3e3b1b71deb0bd19ad7c7a1d9e07f99297829d0401a985f755216ef60ad0066b"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/four-view-original.png",
+      "sha256": "c238d4c164acd071e7311c3c270cca65719c5328439ab3083c3e29862cbe677d"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/primary-2K.png",
+      "sha256": "9960caac1c52168e7aa98f9f4fd41ed21ffe1674935d175efde4325727eda299"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/primary-4K.png",
+      "sha256": "dd63e6d5ad0e16db0b0585db3cee414b576aead8253deaa70189e3a5f406f7eb"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-14/primary-original.png",
+      "sha256": "45904d3f378471d24e4990b28afe65c936b9480fdd0aac9ad4077223964624cc"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/deprecated/pre-2026-10-14/나미루_얼굴_정본_4K.png",
+      "sha256": "05211fd842dffa7fb6ae98a49fdb844535d9dc6eb424e6a0137cd72fffd527a7"
+    }
+  ],
+  "preserved_existing_images": [
+    {
+      "path": "assets/characters/blue-shift/comparison/blue-shift-landscape-faceless-v1.png",
+      "git_blob_sha": "e6dea91a0c674975a895e5175a0529a03f724671",
+      "sha256": "68fb3f77f656b5168e4858c9a6727d24f50bb6598c89a5dc3302f1daeb429d9f"
+    },
+    {
+      "path": "assets/characters/dramatic/01_나미루/나미루_체형보드_4K.png",
+      "git_blob_sha": "7ed795eca1ce11edada6a65018ecd494ee841939",
+      "sha256": "a913f0e6fe09d28314c9ca37e1710be91fcbc8571483b31bca49b8f6048544f5"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/four-view-2K.png",
+      "git_blob_sha": "9961abcf9099e92748f638814fa5b0cffb3a0a9a",
+      "sha256": "d9630439acae6f139dec1cbdd95df85681e77d448755cce631ea045d9a28887e"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/four-view-4K.png",
+      "git_blob_sha": "fce89b523594363854d7dc859a27ed6c38425808",
+      "sha256": "32981d5b917bed7b32693abd169d31b55a33201c7ea80e1b0b5a2da4200dd808"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/four-view-original.png",
+      "git_blob_sha": "25e283eb17ae7694b378435a5b39370308e1370b",
+      "sha256": "f66b059a1d350d5f271dccb3ce5695f999509e44ffd77bd584d78cc0730c155c"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/primary-2K.png",
+      "git_blob_sha": "f4a73a385cea65ed62d5fddd8aca83596e146c7f",
+      "sha256": "7c89edb87aa2f94734fc678c1c012a2cf54e9597a2fa69eb095210592738fd33"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/primary-4K.png",
+      "git_blob_sha": "1ed60167c3e2c2a35fb3ea8819e7d5a336fa230b",
+      "sha256": "3a6eb1784332513393abfa65f2714ac8bdcbc376893cda820a2b79f86794cdb6"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/face-anchors/v2026-10-14/primary-original.png",
+      "git_blob_sha": "12989f5165635a16264e060daf639dfa92e3e34d",
+      "sha256": "e142d850a6aa04647e1dd620d8bf675aab0f7c57254404ddbaeec3fe4fb19778"
+    },
+    {
+      "path": "assets/characters/dramatic/02_유은하/유은하_극화체_캐릭터보드_v5_전신얼굴크롭_4K.png",
+      "git_blob_sha": "61929784b65f2fbbf21b960dd4aed793815ae59f",
+      "sha256": "65039e6c0eabebc6515fd10ce5ff6f856b4d3894c2a005cf8b43c4143e74541c"
+    },
+    {
+      "path": "assets/characters/dramatic/03_OPS/OPS_극화체_캐릭터보드_v3_전신얼굴크롭_4K.png",
+      "git_blob_sha": "71a140944071032d11ea648ea8432a095eb695b5",
+      "sha256": "ea7a13247cca8c86cbe7104f79a766b92e511d79baf7eaab8402c7d0cfedfb78"
+    },
+    {
+      "path": "assets/characters/dramatic/04_김지석/김지석_극화체_캐릭터보드_v3_전신얼굴크롭_4K.png",
+      "git_blob_sha": "8049ca0957f78000086ee5ae5e6ec6f996905ad7",
+      "sha256": "c1b96dc0131cf44bd170b1a11c025fb9be12dc927548e6cf8bfa8090c70b6004"
+    },
+    {
+      "path": "assets/social/2026-10-14/namiru-lydia-cosplay-4x5.png",
+      "git_blob_sha": "868b7e2a096a596fe93df067b56d11dd5649fee0",
+      "sha256": "92fb98dae6a34194841ad66fb840c14abe9390e97069a70a4aeff1ebeb47ca09"
+    }
+  ],
+  "ambiguous_deletions": [],
+  "policy": "No history rewrite, force push, PC original or Library deletion. New approved originals remotely byte/hash verified before removal. No paid generation.",
+  "checks": [
+    "5 original PNGs decoded and visually inspected",
+    "Old face anchors visually compared; body board excluded",
+    "All remaining pre-existing PNG blobs unchanged",
+    "Relative Markdown links resolve",
+    "Other-member settings text unchanged"
+  ]
+}
