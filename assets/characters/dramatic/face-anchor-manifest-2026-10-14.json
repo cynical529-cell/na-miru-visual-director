@@ -171,5 +171,18 @@
       "processing": "local Pillow LANCZOS interpolation; no face generation or deformation"
     }
   ],
-  "legacy_policy": "Archive only clearly corresponding standalone face anchors after remote byte/hash verification. Keep body and mixed character boards and ambiguous files unchanged."
+  "legacy_policy": "Archive only clearly corresponding standalone face anchors after remote byte/hash verification. Keep body and mixed character boards and ambiguous files unchanged.",
+  "deprecated": [
+    {
+      "previous_path": "assets/characters/dramatic/01_나미루/나미루_얼굴_정본_4K.png",
+      "archive_path": "assets/characters/dramatic/01_나미루/deprecated/pre-2026-10-14/나미루_얼굴_정본_4K.png",
+      "sha256": "05211fd842dffa7fb6ae98a49fdb844535d9dc6eb424e6a0137cd72fffd527a7",
+      "git_blob_sha": "4d68ab68dfb4a146492c8a995ba67d507b9f8c17",
+      "reason": "Superseded standalone dramatic face anchor; archived only after all 12 replacement images and manifest were remotely verified."
+    }
+  ],
+  "retained_ambiguous": [
+    "Photo-style local Namiru frontal anchor: correspondence to dramatic replacement uncertain.",
+    "Eunha v5 mixed full-body/face character board: contains body reference and must remain unchanged."
+  ]
 }
