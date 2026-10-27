@@ -1,0 +1,32 @@
+{
+  "version": "2026-10-27",
+  "character": "NA MIRU",
+  "canonical_face": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-27/primary-2K.png",
+  "source": {
+    "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-27/approved-source-original.png",
+    "original_filename": "namiru_portrait_subtle_softening_candidate_20261027.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2115186,
+    "sha256": "affd22285a5a2fd3928c3c9899bd620fd669c4d7f522e73b4ef919a21e0e64e2"
+  },
+  "output": {
+    "path": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-27/primary-2K.png",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 4171773,
+    "sha256": "dffd2bb8e22ca3c1bbd4a27e531f7459f1070ce9501e86aac0741ab3ec0ba62b",
+    "processing": "ImageMagick Lanczos interpolation from approved 1254x1254 source; metadata stripped; no generative redraw, retouch, crop or sharpening; not native 2K"
+  },
+  "previous_version": {
+    "status": "archived in place; files unchanged",
+    "manifest": "assets/characters/dramatic/face-anchor-manifest-2026-10-15.json",
+    "primary": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-15/primary-02-original.png",
+    "secondary": "assets/characters/dramatic/01_나미루/face-anchors/v2026-10-15/secondary-01-original.png"
+  },
+  "body": {
+    "status": "unchanged",
+    "height_cm": 175,
+    "head_units": 8.2
+  }
+}

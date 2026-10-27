@@ -10,7 +10,7 @@ description: 나미루 이미지 제작·편집 프롬프트와 정체성 검수
 ## 정본과 작업 범위
 
 - 실제 승인 얼굴 정본과 전체 체형 정본을 함께 확보하고 사용한 버전을 기록한다. 스타일·의상·포즈 참조를 얼굴 또는 체형 정본으로 대신하지 않는다.
-- 저장소 `cynical529-cell/na-miru-visual-director`의 [최신 얼굴·제작 지침](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/NAMIRU_DRAMATIC_FACE_GUIDE_2026-10-15.md), [정체성 QA](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/NAMIRU_IDENTITY_QA.md), [멤버·착화키 설정](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/BLUE_SHIFT_CHARACTER_SETTINGS_2026-10-13.md)을 함께 읽는다. 로컬 체크아웃이 있으면 같은 파일을 직접 읽는다. 앵커가 없으면 확보하지 못했다고 밝히고 정체성 판정은 보류한다.
+- 저장소 `cynical529-cell/na-miru-visual-director`의 [최신 얼굴·제작 지침](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/NAMIRU_FACE_CANONICAL_2026-10-27.md), [정체성 QA](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/NAMIRU_IDENTITY_QA.md), [멤버·착화키 설정](https://github.com/cynical529-cell/na-miru-visual-director/blob/main/docs/BLUE_SHIFT_CHARACTER_SETTINGS_2026-10-13.md)을 함께 읽는다. 로컬 체크아웃이 있으면 같은 파일을 직접 읽는다. 앵커가 없으면 확보하지 못했다고 밝히고 정체성 판정은 보류한다.
 - 실제 모델용 프롬프트 문법은 사용 가능한 `image` 스킬의 해당 모델 지침을 따른다. 상품 카탈로그 작업이면 `moon-agency-fashion-workflows`도 적용한다. 이 스킬만으로 이미지 생성·외부 업로드·게시 권한을 추정하지 않는다.
 
 ## 제작과 검수
